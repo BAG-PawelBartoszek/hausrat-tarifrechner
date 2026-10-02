@@ -15,22 +15,6 @@ In diesem Dojo baut ihr in Pairs eine kleine API für eine Hausratversicherung: 
 - [Stretch Goals](#stretch-goals)
 - [Retrospektive](#retrospektive)
 
-## Ablauf
-
-120 Minuten, vier Iterationen, eine Retrospektive.
-
-| Zeit      | Block       | Inhalt                               | Dauer   |
-|-----------|-------------|--------------------------------------|---------|
-| 0:00      | Intro       | RMM, Fachlichkeit, Pairing-Regeln    | 15 Min. |
-| 0:15      | Setup       | Pairs bilden, lauffähiger Server     | 10 Min. |
-| 0:25      | Iteration 1 | Level 0                              | 20 Min. |
-| 0:45      | Iteration 2 | Level 1                              | 20 Min. |
-| 1:05      | Iteration 3 | Level 2                              | 25 Min. |
-| 1:30      | Iteration 4 | Level 3                              | 20 Min. |
-| 1:50      | Retro       | Austausch im Plenum                  | 10 Min. |
-
-> **Der Vergleich der Stufen zählt.** Der Fachumfang darf schrumpfen, die Stufe selbst wird umgesetzt.
-
 ## Richardson Maturity Model
 
 Vier Stufen auf dem Weg zu einer REST-API. Jede Iteration im Dojo entspricht einer Stufe.
